@@ -1,1 +1,2 @@
-# awesome-sustainable-software
+# Awesome Sustainable Software Development
+
