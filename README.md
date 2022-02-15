@@ -34,7 +34,15 @@ Base Research and Knowledge
   sustainability. It is helpful as a general framework to understand the different
   dimensions of sustainability.
 
+- [Podcast: Das Sandpapier by Sandstorm Media: #42 Sustainable Software (German)](https://sandstorm.de/de/blog/podcast-episodes/folge-42-nachhaltige-software.html)
 
+  Sandstorm developers take a subjective look at sustainable software and evaluate the general and their own state of development. What role does sustainability 
+  actually play in software architecture? What are we already doing, what are our as yet unachieved goals, what are our plans and what obstacles still lie in the 
+  way?
+  
+- [Introduction in the Principles of Sustainable Software Engineering, Microsoft](https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/1-introduction)
+
+  Modular overview online course on the eight principles of sustainable software engineering.
 
 ## Practices
 
