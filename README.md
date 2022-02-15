@@ -27,6 +27,11 @@ Base Research and Knowledge
   Demonstration of the application of set of criteria, including the definition of standard usage scenarios for chosen categories of software products. Discussion 
   of the practicability of this type of assessment, its acceptability for several stakeholders and potential consequences for the eco-labeling of 
   software products and sustainable software design.
+  
+- [Blue Angel: Resources and Energy-Efficient Software Products (DE-UZ 215)](https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-software-products)
+
+  The aim of the environmental label for resource and energy-efficient software products is to reduce the total energy consumed by information and communication 
+  technology and improve resource efficiency.
 
 - [Karlskrona Manifesto](https://www.sustainabilitydesign.org/karlskrona-manifesto/)
 
