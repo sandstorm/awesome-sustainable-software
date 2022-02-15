@@ -30,9 +30,13 @@ Base Research and Knowledge
 
 - [Karlskrona Manifesto](https://www.sustainabilitydesign.org/karlskrona-manifesto/)
 
-  This paper states the different responsibilities of software designers regarding
-  sustainability. It is helpful as a general framework to understand the different
+  This paper states the different responsibilities of software designers regarding sustainability. It is helpful as a general framework to understand the different
   dimensions of sustainability.
+  
+- [Article: Software and sustainability - how do they fit together? (German)](https://www.informatik-aktuell.de/management-und-recht/digitalisierung/software-und-nachhaltigkeit-wie-passt-das-zusammen.html)
+
+  How is software designed efficiently in the sense of the global sustainability goals and what does that actually mean? What models are there and who supports 
+  developers and administrators in implementing them? 
 
 - [Podcast: Das Sandpapier by Sandstorm Media: #42 Sustainable Software (German)](https://sandstorm.de/de/blog/podcast-episodes/folge-42-nachhaltige-software.html)
 
@@ -43,6 +47,11 @@ Base Research and Knowledge
 - [Introduction in the Principles of Sustainable Software Engineering, Microsoft](https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/1-introduction)
 
   Modular overview online course on the eight principles of sustainable software engineering.
+  
+- [Greenpeace Guide to Greener Electronics, 2017 (PDF)](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/20171016-greenpeace-guide-greener-electronics-englisch.pdf)
+
+  In 2017, Greenpeace examined the 17 largest manufacturers of consumer electronics with regard to ecological production: How much and what kind of energy is used? 
+  Which resources are used in the process and how much? And what chemicals are in the products?
 
 ## Practices
 
