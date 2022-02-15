@@ -53,7 +53,7 @@ Base Research and Knowledge
   In 2017, Greenpeace examined the 17 largest manufacturers of consumer electronics with regard to ecological production: How much and what kind of energy is used? 
   Which resources are used in the process and how much? And what chemicals are in the products?
   
-- [Article: OpenSource Year Book 2008, OpenSource and Sustainablility, Torsten Busch (p.111-122)(German)(http://www.opensourcejahrbuch.de/download/jb2008/osjb08.pdf)
+- [Article: OpenSource Year Book 2008, OpenSource and Sustainablility, Torsten Busch (p.111-122)(German)](http://www.opensourcejahrbuch.de/download/jb2008/osjb08.pdf)
 
   The article deals with the role of open source software in terms of economic sustainability and ethics.
 
