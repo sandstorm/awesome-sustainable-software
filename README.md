@@ -17,6 +17,19 @@ collaborate with others and form a community around this.
 
 Base Research and Knowledge
 
+- [Set of criteria for sustainable software (PDF)](https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/Greensoft/Set-of-Criteria_Sustainable-SW_v01_2017-05-
+  31.pdf)
+
+  This document is the outcome of the first of five work packages in the German Federal Environment Agency's UFOPLAN project “Sustainable software design— 
+  Development and application of criteria for resource-efficient software products with consideration of existing methods.
+  
+- [Article: Sustainable software products—Towards assessment criteria for resource and energy efficiency (PDF)](https://www.umwelt-campus.de/fileadmin/Umwelt-
+  Campus/Greensoft/1-s2.0-S0167739X17314188-main.pdf)
+  
+  Demonstration of the application of set of criteria, including the definition of standard usage scenarios for chosen categories of software products. Discussion 
+  of the practicability of this type of assessment, its acceptability for several stakeholders and potential consequences for the eco-labeling of 
+  software products and sustainable software design.
+
 - [Karlskrona Manifesto](https://www.sustainabilitydesign.org/karlskrona-manifesto/)
 
   This paper states the different responsibilities of software designers regarding
