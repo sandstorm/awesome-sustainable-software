@@ -13,55 +13,6 @@ collaborate with others and form a community around this.
 
 # Content
 
-## Knowledge Base
-
-Base Research and Knowledge
-
-- [Set of criteria for sustainable software (PDF)](https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/Greensoft/Set-of-Criteria_Sustainable-SW_v01_2017-05-31.pdf)
-
-  This document is the outcome of the first of five work packages in the German Federal Environment Agency's UFOPLAN project “Sustainable software design— 
-  Development and application of criteria for resource-efficient software products with consideration of existing methods.
-  
-- [Article: Sustainable software products—Towards assessment criteria for resource and energy efficiency (PDF)](https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/Greensoft/1-s2.0-S0167739X17314188-main.pdf)
-  
-  Demonstration of the application of set of criteria, including the definition of standard usage scenarios for chosen categories of software products. Discussion 
-  of the practicability of this type of assessment, its acceptability for several stakeholders and potential consequences for the eco-labeling of 
-  software products and sustainable software design.
-  
-- [Blue Angel: Resources and Energy-Efficient Software Products (DE-UZ 215)](https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-software-products)
-
-  The aim of the environmental label for resource and energy-efficient software products is to reduce the total energy consumed by information and communication 
-  technology and improve resource efficiency.
-
-- [Karlskrona Manifesto](https://www.sustainabilitydesign.org/karlskrona-manifesto/)
-
-  This paper states the different responsibilities of software designers regarding sustainability. It is helpful as a general framework to understand the different
-  dimensions of sustainability.
-  
-- [Article: Software and sustainability - how do they fit together? (German)](https://www.informatik-aktuell.de/management-und-recht/digitalisierung/software-und-nachhaltigkeit-wie-passt-das-zusammen.html)
-
-  How is software designed efficiently in the sense of the global sustainability goals and what does that actually mean? What models are there and who supports 
-  developers and administrators in implementing them? 
-
-- [Podcast: Das Sandpapier by Sandstorm Media: #42 Sustainable Software (German)](https://sandstorm.de/de/blog/podcast-episodes/folge-42-nachhaltige-software.html)
-
-  Sandstorm developers take a subjective look at sustainable software and evaluate the general and their own state of development. What role does sustainability 
-  actually play in software architecture? What are we already doing, what are our as yet unachieved goals, what are our plans and what obstacles still lie in the 
-  way?
-  
-- [Introduction in the Principles of Sustainable Software Engineering, Microsoft](https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/1-introduction)
-
-  Modular overview online course on the eight principles of sustainable software engineering.
-  
-- [Greenpeace Guide to Greener Electronics, 2017 (PDF)](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/20171016-greenpeace-guide-greener-electronics-englisch.pdf)
-
-  In 2017, Greenpeace examined the 17 largest manufacturers of consumer electronics with regard to ecological production: How much and what kind of energy is used? 
-  Which resources are used in the process and how much? And what chemicals are in the products?
-  
-- [Article: OpenSource Year Book 2008, OpenSource and Sustainablility, Torsten Busch (p.111-122)(German)](http://www.opensourcejahrbuch.de/download/jb2008/osjb08.pdf)
-
-  The article deals with the role of open source software in terms of economic sustainability and ethics.
-
 ## Practices
 
 ### Docker and Containerization
@@ -122,3 +73,52 @@ For quite some PNG or GIF images, you can drastically reduce the number of color
 **Caching for reducing CPU load**
 
 ![](https://badgen.net/badge/Type/CPU/green)
+
+## Knowledge Base
+
+Base Research and Knowledge
+
+- [Set of criteria for sustainable software (PDF)](https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/Greensoft/Set-of-Criteria_Sustainable-SW_v01_2017-05-31.pdf)
+
+  This document is the outcome of the first of five work packages in the German Federal Environment Agency's UFOPLAN project “Sustainable software design— 
+  Development and application of criteria for resource-efficient software products with consideration of existing methods.
+  
+- [Article: Sustainable software products—Towards assessment criteria for resource and energy efficiency (PDF)](https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/Greensoft/1-s2.0-S0167739X17314188-main.pdf)
+  
+  Demonstration of the application of set of criteria, including the definition of standard usage scenarios for chosen categories of software products. Discussion 
+  of the practicability of this type of assessment, its acceptability for several stakeholders and potential consequences for the eco-labeling of 
+  software products and sustainable software design.
+  
+- [Blue Angel: Resources and Energy-Efficient Software Products (DE-UZ 215)](https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-software-products)
+
+  The aim of the environmental label for resource and energy-efficient software products is to reduce the total energy consumed by information and communication 
+  technology and improve resource efficiency.
+
+- [Karlskrona Manifesto](https://www.sustainabilitydesign.org/karlskrona-manifesto/)
+
+  This paper states the different responsibilities of software designers regarding sustainability. It is helpful as a general framework to understand the different
+  dimensions of sustainability.
+  
+- [Article: Software and sustainability - how do they fit together? (German)](https://www.informatik-aktuell.de/management-und-recht/digitalisierung/software-und-nachhaltigkeit-wie-passt-das-zusammen.html)
+
+  How is software designed efficiently in the sense of the global sustainability goals and what does that actually mean? What models are there and who supports 
+  developers and administrators in implementing them? 
+
+- [Podcast: Das Sandpapier by Sandstorm Media: #42 Sustainable Software (German)](https://sandstorm.de/de/blog/podcast-episodes/folge-42-nachhaltige-software.html)
+
+  Sandstorm developers take a subjective look at sustainable software and evaluate the general and their own state of development. What role does sustainability 
+  actually play in software architecture? What are we already doing, what are our as yet unachieved goals, what are our plans and what obstacles still lie in the 
+  way?
+  
+- [Introduction in the Principles of Sustainable Software Engineering, Microsoft](https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/1-introduction)
+
+  Modular overview online course on the eight principles of sustainable software engineering.
+  
+- [Greenpeace Guide to Greener Electronics, 2017 (PDF)](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/20171016-greenpeace-guide-greener-electronics-englisch.pdf)
+
+  In 2017, Greenpeace examined the 17 largest manufacturers of consumer electronics with regard to ecological production: How much and what kind of energy is used? 
+  Which resources are used in the process and how much? And what chemicals are in the products?
+  
+- [Article: OpenSource Year Book 2008, OpenSource and Sustainablility, Torsten Busch (p.111-122)(German)](http://www.opensourcejahrbuch.de/download/jb2008/osjb08.pdf)
+
+  The article deals with the role of open source software in terms of economic sustainability and ethics.
