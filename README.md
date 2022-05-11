@@ -61,6 +61,14 @@ Images are often responsible for most of the traffic. By using the [WebP](https:
 
 By using the `<picture>` tag, you can support fallbacks for older browsers.
 
+**Lazyly load offscreen images**
+
+![](https://badgen.net/badge/Type/NetworkTransmission/purple)
+
+By loading offscreen images only when they enter the viewport for the first time, you can drastically reduce the weight of your webpage and save a lot of transferred megabytes. See for example the new `loading` attribute on image and iframe tags.
+For support of older browsers see javascript solutions (e.g. https://github.com/aFarkas/lazysizes).
+
+
 **Reduce colors in images**
 
 ![](https://badgen.net/badge/Type/NetworkTransmission/purple)
