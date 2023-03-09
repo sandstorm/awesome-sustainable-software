@@ -22,7 +22,7 @@ collaborate with others and form a community around this.
     - [Web Server Configuration](#web-server-configuration)
     - [Image/Picture Rendering](#imagepicture-rendering)
     - [Application Configuration](#application-configuration)
-  - [Tracking](#tracking)
+    - [Tracking](#tracking)
     - [Development and Staging](#development-and-staging)
     - [Avoid waste](#avoid-waste)
     - [Hosting](#hosting)
@@ -134,7 +134,7 @@ For quite some PNG or GIF images, you can drastically reduce the number of color
 
 ![](https://badgen.net/badge/Type/Efficiency/green)
 
-## Tracking
+### Tracking
 
 **use existing metrics**
 
