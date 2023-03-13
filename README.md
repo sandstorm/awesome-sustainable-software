@@ -69,7 +69,7 @@ By leveraging and properly configuring HTTP caching, you can also reduce data si
 Common practices include:
 
 - static assets (like JS/CSS) should be cached for a very long time, and include a cache-bust mechanism
-- f.e. in Neos CMS, Images are stored content-addressed (i.e. the URL changes if the image contents change) - in this case, these assets can be also cached for a very long time.
+- f.e. in [Neos CMS](https://neos.io), Images are stored content-addressed (i.e. the URL changes if the image contents change) - in this case, these assets can be also cached for a very long time.
 - HTML pages should NOT have caching enabled, as this makes changing cached pages impossible during the cache lifetime.
 
 **Minify JS/CSS**
@@ -92,7 +92,7 @@ By using the `<picture>` tag, you can support fallbacks for older browsers.
 
 ![](https://badgen.net/badge/Type/NetworkTransmission/purple)
 
-By loading offscreen images only when they enter the viewport for the first time, you can drastically reduce the weight of your webpage and save a lot of transferred megabytes. See for example the new `loading` attribute on image and iframe tags.
+By loading offscreen images only when they enter the viewport for the first time, you can drastically reduce the weight of your webpage and save a lot of transferred megabytes. See for example the new [`loading` attribute on image](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#loading) and iframe tags.
 For support of older browsers see javascript solutions (e.g. https://github.com/aFarkas/lazysizes).
 
 **Reduce colors in images**
@@ -181,14 +181,14 @@ Use efficient test scopes (E2E tests versus unit test).
 ![](https://badgen.net/badge/Type/Developer%20Happiness/green)
 ![](https://badgen.net/badge/Type/Efficiency/green)
 
-- sprint boot or micronaut
-- react or preact or vue or next
-- maven or gradle
-- npm or yarn
-- webpack or esbuild
-- node or deno
-- react-native or flutter
-- electron or taurin
+- [spring boot](https://spring.io/projects/spring-boot) or [micronaut](https://micronaut.io/)
+- [react](https://reactjs.org/) or [preact](https://preactjs.com/) or [vue](https://vuejs.org/) or [next](https://nextjs.org/)
+- [maven](https://maven.apache.org/) or [gradle](https://gradle.org/)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [webpack](https://webpack.js.org/) or [esbuild](https://esbuild.github.io/)
+- [node](https://nodejs.org/) or [deno](https://deno.land/)
+- [react-native](https://reactnative.dev/) or [flutter](https://flutter.dev/)
+- [electron](https://www.electronjs.org/) or [tauri](https://tauri.app/)
 
 **don't use AI for trivial tasks**
 
@@ -220,10 +220,10 @@ Follow best practices to structure your code, eg
 
 > What you can't measure, you can't manage. _(Peter Drucker)_
 
-- use google lighthouse
+- use [google lighthouse](https://developer.chrome.com/docs/lighthouse/)
 - … or ca11y
 - linting
-- sonarlint
+- [sonarlint](https://www.sonarsource.com/products/sonarlint/)
 - TODO: what else
 
 ### Avoid waste
