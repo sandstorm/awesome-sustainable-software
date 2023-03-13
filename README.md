@@ -221,7 +221,7 @@ Follow best practices to structure your code, eg
 > What you can't measure, you can't manage. _(Peter Drucker)_
 
 - use [google lighthouse](https://developer.chrome.com/docs/lighthouse/)
-- … or ca11y
+- … or [Pa11y](https://github.com/pa11y/pa11y)
 - linting
 - [sonarlint](https://www.sonarsource.com/products/sonarlint/)
 - TODO: what else
