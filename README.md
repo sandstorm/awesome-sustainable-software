@@ -2,13 +2,13 @@
 
 # About
 
-In this list, we want to collect links, resources, and tips towards sustainable software developent.
+In this list, we want to collect links, resources, and tips towards sustainable software development.
 
 We especially want to highlight practical real-world tips which are directly applicable in practice.
 
 ## Supported with ❤️ by [sandstorm](https://sandstorm.de)
 
-We are currently on our journey towards estabilishing sustainability goals and principles in our day-to-day work - and we want to
+We are currently on our journey towards establishing sustainability goals and principles in our day-to-day work - and we want to
 collaborate with others and form a community around this.
 
 # Content
@@ -68,9 +68,9 @@ By leveraging and properly configuring HTTP caching, you can also reduce data si
 
 Common practices include:
 
-- static assets (like JS/CSS) should be cached for a very long time, and include a cache-bust mechanism
-- f.e. in [Neos CMS](https://neos.io), Images are stored content-addressed (i.e. the URL changes if the image contents change) - in this case, these assets can be also cached for a very long time.
-- HTML pages should NOT have caching enabled, as this makes changing cached pages impossible during the cache lifetime.
+- static assets (like JS/CSS) should be cached for a very long time and include a cache-bust mechanism
+- f.e. in [Neos CMS](https://neos.io), Images are stored content-addressed (i.e. the URL changes if the image contents changes) - in this case, these assets can be also cached for a very long time.
+- HTML pages should _not_ have caching enabled, as this makes changing cached pages impossible during the cache lifetime.
 
 **Minify JS/CSS**
 
@@ -92,7 +92,7 @@ By using the `<picture>` tag, you can support fallbacks for older browsers.
 
 ![](https://badgen.net/badge/Type/NetworkTransmission/purple)
 
-By loading offscreen images only when they enter the viewport for the first time, you can drastically reduce the weight of your webpage and save a lot of transferred megabytes. See for example the new [`loading` attribute on image](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#loading) and iframe tags.
+By loading offscreen images only, when they enter the viewport for the first time, you can drastically reduce the weight of your webpage and save a lot of transferred megabytes. See for example the new [`loading` attribute on image](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#loading) and iframe tags.
 For support of older browsers see javascript solutions (e.g. https://github.com/aFarkas/lazysizes).
 
 **Reduce colors in images**
@@ -121,7 +121,7 @@ For quite some PNG or GIF images, you can drastically reduce the number of color
 
 ![](https://badgen.net/badge/Type/NetworkTransmission/purple)
 
-- minize intermediate results
+- minimize intermediate results
 - … apply filter on server (instead of client)
 - … or on database
 - design APIs based on the user perspective
@@ -154,7 +154,7 @@ Do you need to track every visitor or one out of 100?
 
 ![](https://badgen.net/badge/Type/Developer%20Happiness/green)
 
-Make your project start with one or two commands.
+Make your project starts with one or two commands.
 Consider using our [Dev Script Runner](https://github.com/sandstorm/dev-script-runner)
 
 **plan for staging environments**
@@ -194,7 +194,7 @@ Use efficient test scopes (E2E tests versus unit test).
 
 ![](https://badgen.net/badge/Type/Efficiency/green)
 
-Prefer adequat algorithms.
+Prefer adequate algorithms.
 
 **readable code**
 
@@ -211,8 +211,8 @@ Follow best practices to structure your code, eg
 
 - aim for open source projects
 - do not re-implement things
-- pick a license which allow others to improve/continue the project
-- use contracts which allow your customers to migrate to another agency
+- pick a license, which allows others to improve/continue the project
+- use contracts, which allow your customers to migrate to another agency
 
 **measure and improve quality**
 
@@ -228,7 +228,7 @@ Follow best practices to structure your code, eg
 
 ### Avoid waste
 
-**abandon dead project**
+**abandon dead projects**
 
 ![](https://badgen.net/badge/Type/Sufficiency/blue)
 
@@ -238,7 +238,7 @@ only develop what will be used
 
 ![](https://badgen.net/badge/Type/Sufficiency/blue)
 
-**shutdown unused services (scale to zero/terminate)**
+**shutdown unused services**
 
 ![](https://badgen.net/badge/Type/Sufficiency/blue)
 
