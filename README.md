@@ -28,7 +28,7 @@ collaborate with others and form a community around this.
     - [Hosting](#hosting)
     - [Accessibility](#accessibility)
   - [Knowledge Base](#knowledge-base)
-- [Thank You ❤️](#thank-you)
+- [Thank You ❤️](#thank-you-%EF%B8%8F)
 
 ## Practices
 
