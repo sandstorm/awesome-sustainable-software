@@ -28,6 +28,7 @@ collaborate with others and form a community around this.
     - [Hosting](#hosting)
     - [Accessibility](#accessibility)
   - [Knowledge Base](#knowledge-base)
+- [Thank You ❤️](#thank-you)
 
 ## Practices
 
@@ -386,3 +387,7 @@ Base Research and Knowledge
 - [nachhaltiges-webdesign.jetzt (German)](https://nachhaltiges-webdesign.jetzt/) 
 
   A collection of methods to create sustainable websites, that looks beyond technical measures at content, SEO, and business approaches.
+  
+# Thank You ❤️
+
+Thank You [Ole Langbehn @neurolabs](https://github.com/neurolabs) for pointing us towards [nachhaltiges-webdesign.jetzt](https://nachhaltiges-webdesign.jetzt/).
