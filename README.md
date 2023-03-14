@@ -382,3 +382,7 @@ Base Research and Knowledge
 - [Article: OpenSource Year Book 2008, OpenSource and Sustainablility, Torsten Busch (p.111-122)(German)](http://www.opensourcejahrbuch.de/download/jb2008/osjb08.pdf)
 
   The article deals with the role of open source software in terms of economic sustainability and ethics.
+
+- [nachhaltiges-webdesign.jetzt (German)](https://nachhaltiges-webdesign.jetzt/) 
+
+  A collection of methods to create sustainable websites, that looks beyond technical measures at content, SEO, and business approaches.
