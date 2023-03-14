@@ -89,6 +89,9 @@ Images are often responsible for most of the traffic. By using the [WebP](https:
 By using the `<picture>` tag, you can support fallbacks for older browsers.
 
 **Optimize your images**
+
+![](https://badgen.net/badge/Type/NetworkTransmission/purple)
+
 - use (lossy) compression 
 - consider dithering for your images
 
@@ -121,6 +124,8 @@ Pictures are a major source of traffic. Consider using less pictures, where they
 
 **self host your fonts**
 
+![](https://badgen.net/badge/Type/Privacy/cyan)
+
 When embeddings fonts from external font services, user data is passed to external parties. This is bad privacy practice. Opposed to this, self-hosted fonts add to the transmitted data.
 
 **Consider System Fonts**
@@ -130,6 +135,9 @@ When embeddings fonts from external font services, user data is passed to extern
 System fonts are already installed on your users device and don't need to be downloaded.
 
 **Optimize your font usage**
+
+![](https://badgen.net/badge/Type/NetworkTransmission/purple)
+
 - load only the font-weights you need
 - use variable fonts as all styles can be embedded into one small file
 - use the `woff2` file format, as it is the smallest to date
@@ -184,9 +192,14 @@ Do you need to track every visitor or one out of 100?
 
 **avoid dark patterns**
 
+![](https://badgen.net/badge/Type/User%20Happiness/green)
+
 For example in cookie banners, make the _accept all_ and _reject all_ button visually/hirarchically equally important. Clearly mark ads. Don't put pressure on your users ("only 3 left", "SALE: 7 hours left", …)
 
 **Think twice before using a pop-up**
+
+![](https://badgen.net/badge/Type/User%20Happiness/green)
+
 Can you inline consent modals for external content? Does your site really need external cookies?
 
 ### Development and Staging
