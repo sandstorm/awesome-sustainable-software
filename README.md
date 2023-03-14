@@ -20,7 +20,7 @@ collaborate with others and form a community around this.
   - [Practices](#practices)
     - [Docker and Containerization](#docker-and-containerization)
     - [Web Server Configuration](#web-server-configuration)
-    - [Image/Picture Rendering](#imagepicture-rendering)
+    - [Rendering](#rendering)
     - [Application Configuration](#application-configuration)
     - [Tracking](#tracking)
     - [Development and Staging](#development-and-staging)
@@ -78,15 +78,18 @@ Common practices include:
 
 JS/CSS/SCSS should be minified during the build. During this process, comments, white spaces etc are removed - and multiple scripts are concatenated to one big file (which is positive for compression ratios etc).
 
-### Image/Picture Rendering
+### Rendering
 
 **Use WebP format**
 
 ![](https://badgen.net/badge/Type/NetworkTransmission/purple)
 
-Images are often responsible for most of the traffic. By using the [WebP](https://developers.google.com/speed/webp) format, you can compress graphics lossy or lossless, such that they are 30% smaller than PNGs or JPGs.
-
+Images are often responsible for most of the traffic. By using the [WebP](https://developers.google.com/speed/webp) format, you can compress graphics lossy or lossless, such that they are 30% smaller than PNGs or JPGs.  
 By using the `<picture>` tag, you can support fallbacks for older browsers.
+
+**Optimize your images**
+- use (lossy) compression 
+- consider dithering for your images
 
 **Lazyly load offscreen images**
 
@@ -100,6 +103,36 @@ For support of older browsers see javascript solutions (e.g. https://github.com/
 ![](https://badgen.net/badge/Type/NetworkTransmission/purple)
 
 For quite some PNG or GIF images, you can drastically reduce the number of colors until you notice a visual difference. Sometimes, 6 or 4 colors are enough, sometimes 32 or 16. With this trick, you can reduce up to 90% of the file size.
+
+**Only use pictures, where relevant**
+
+![](https://badgen.net/badge/Type/NetworkTransmission/purple)
+
+Pictures are a major source of traffic. Consider using less pictures, where they are not necessary, or transporting the information through different means (text, colors, …)
+
+**Use videos as little as possible**
+
+![](https://badgen.net/badge/Type/NetworkTransmission/purple)
+
+- avoid background videos
+- avoid auto-playing videos
+- compress your video
+
+**self host your fonts**
+
+When embeddings fonts from external font services, user data is passed to external parties. This is bad privacy practice. Opposed to this, self-hosted fonts add to the transmitted data.
+
+**Consider System Fonts**
+
+![](https://badgen.net/badge/Type/NetworkTransmission/purple)
+
+System fonts are already installed on your users device and don't need to be downloaded.
+
+**Optimize your font usage**
+- load only the font-weights you need
+- use variable fonts as all styles can be embedded into one small file
+- use the `woff2` file format, as it is the smallest to date
+- create a subset of only the characters you use
 
 ### Application Configuration
 
@@ -147,6 +180,13 @@ Eg use web server logs to count number of visits per page.
 ![](https://badgen.net/badge/Type/Efficiency/green)
 
 Do you need to track every visitor or one out of 100?
+
+**avoid dark patterns**
+
+For example in cookie banners, make the _accept all_ and _reject all_ button visually/hirarchically equally important. Clearly mark ads. Don't put pressure on your users ("only 3 left", "SALE: 7 hours left", …)
+
+**Think twice before using a pop-up**
+Can you inline consent modals for external content? Does your site really need external cookies?
 
 ### Development and Staging
 
@@ -268,6 +308,10 @@ eg by using VMs, Kubernetes or serverless computing
 
 We use [Hetzner](https://www.hetzner.com/unternehmen/umweltschutz/?country=de).
 
+**Use a data centre close to your users**
+
+![](https://badgen.net/badge/Type/Efficiency/green)
+
 **deploy a secure SSH configuration**
 
 ![](https://badgen.net/badge/Type/Security/orange)
@@ -288,8 +332,7 @@ You do not need to check the remaining disk space every minute 😉.
 
 ![](https://badgen.net/badge/Type/Usability/green)
 
-Follow [Awesome Accessibility
-](https://github.com/brunopulis/awesome-a11y#readme)
+Follow [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
 
 ## Knowledge Base
 
